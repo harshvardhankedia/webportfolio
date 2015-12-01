@@ -1,0 +1,30 @@
+img { width: 200px;
+height: 200px; }
+h2 { color: #ccc;
+  background-color: black;
+  padding-top: 0px; 
+  float: center;
+  margin: 0px;
+ }
+#header {
+    color:Black;
+    text-align:left;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:100%px;
+    width:20%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    
+    float:right;
+    padding-top:10px;
+    padding-left: 10px;
+    padding-right: auto;
+    padding-bottom: auto;
+}
+

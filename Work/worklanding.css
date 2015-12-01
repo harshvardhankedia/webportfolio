@@ -1,0 +1,23 @@
+body { margin: 0px;
+}
+a:link { color: grey;
+          text-decoration: none;
+  
+}
+a:visited {color: grey;}
+a:hover { color: grey;
+          text-decoration: underline;
+           ;
+}
+a:active {color: blue;}
+
+h2 { color: #ccc;
+  background-color: black;
+  font-size: 200%;
+  padding-top: 0px; 
+  float: center;
+  margin: 0px;
+ }
+h1 { text-align: center;
+})
+

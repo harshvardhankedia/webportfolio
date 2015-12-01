@@ -1,0 +1,55 @@
+body {margin:0px;
+  background-image: url("http://images.amazon.com/images/G/01/toys/detail-page/2011/B004O0TOJ0-1.jpg");
+  background-size: 30%
+}
+a:link { color: black;
+}
+a:visited {color: grey;}
+a:hover { color: grey;}
+a:active {color: blue;}
+h2 { color: #ccc;
+  background-color: black;
+  font-size: 200%;
+  padding-top: 0px; 
+  float: center;
+  margin: 0px;
+ 
+  
+ }
+
+#blackBar{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:60px;
+background-color:black;
+}
+
+
+
+h1 { text-align: center;
+padding-left: 50%;
+  padding-top: 1em;
+  color: black;
+}
+
+.about {
+		text-align: left;
+		
+    float: left;
+    clear: none;
+    ; 
+}
+.work {text-align: center;
+  
+  float: left; ;
+  
+  }
+
+.contact {text-align: right;
+  
+  float: left;
+}
+
+

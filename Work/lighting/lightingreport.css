@@ -1,0 +1,27 @@
+#title { color: #ccc;
+  background-color: black;
+  padding-top: 0px; 
+  float: center;
+  margin: 0px;
+ }
+#header {
+    color:Black;
+    text-align:left;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:100%;
+    width:20%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    
+    float:left;
+    padding:10px; 
+}
+
+}
+</style>
